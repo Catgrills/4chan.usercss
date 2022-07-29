@@ -1,7 +1,5 @@
 # 4chan.usercss
 
-# Exhentai usercss
-
 <img src="preview_catalog_classic.png" width="100%">
 <img src="preview_thread_classic.png" width="100%">
 <img src="preview_catalog_dark_cyan.png" width="100%">
@@ -10,6 +8,7 @@
 About
 -------------------------------
 A css script for <i><a href="https://4chan.org/">4chan.org</a></i>.
+There a two themes available : <i>Classic</i> and <i>Dark Cyan</i>.
 
 Instruction
 -------------------------------
