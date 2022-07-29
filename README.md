@@ -2,11 +2,10 @@
 
 # Exhentai usercss
 
-<img src="preview_home.png" width="100%">
-<img src="preview_favorites.png" width="100%">
-<img src="preview_searchbox.png" width="100%">
-<img src="preview_gallery.png" width="100%">
-<img src="preview_viewer.png" width="100%">
+<img src="preview_catalog_classic.png" width="100%">
+<img src="preview_thread_classic.png" width="100%">
+<img src="preview_catalog_dark_cyan.png" width="100%">
+<img src="preview_thread_dark_cyan.png" width="100>
 
 About
 -------------------------------
