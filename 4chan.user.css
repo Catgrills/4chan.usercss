@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           4chan.usercss
 @namespace      https://github.com/Catgrills/4chan.usercss
-@version        1.0.0
+@version        1.1
 @description    A usercss for 4chan
 @author         Catgrills/Katgrills
 @preprocessor uso
@@ -116,13 +116,14 @@
 	.middlead.center, 
 	.postInfo .riceCheck, 
 	.postInfo .qmark-you, .qr-link-container, 
-	#boardNavDesktopFoot, #index-last-refresh, 
+	#boardNavDesktopFoot, #index-last-refresh,
+	#header-bar #shortcuts #menu span:nth-of-type(3) .submenu label:nth-of-type(3),
 	#navlinks, #oneechan-version, 
 	#shortcut-fappe, 
 	#shortcut-werk,
-    #t-help, 
-    #togglePostFormLink, 
-    #updater {
+	#t-help, 
+	#togglePostFormLink, 
+	#updater {
 		display: none !important;
 	}
 
