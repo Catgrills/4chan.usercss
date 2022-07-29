@@ -8,7 +8,7 @@
 @var select theme 'Theme' {
 	"1. Classic": `
 	:root {
-		--body-bg: #D8DDED !important; 
+	--body-bg: #D8DDED !important; 
         --header-bg: #A2A5C1 !important;
         --header-bg-op : rgba(162, 165, 193,.95) !important;
         --card-bg: #C6CADF !important;
@@ -1874,7 +1874,7 @@
 		visibility: hidden;
 	}
 
-	:root .navLinks.navLinksBot.desktop a[href='0 0 30 30'] {
+	:root .navLinks.navLinksBot.desktop a[href='#top'] {
 		background: no-repeat url("https://i.imgur.com/2R8oeVc.png") center !important;
 		background-size: 22px auto !important;
 		color: transparent !important;
@@ -1888,11 +1888,11 @@
 		filter: brightness(0) var(--invert);
 	}
 
-	:root .navLinks.navLinksBot.desktop a[href='true']::after {
+	:root .navLinks.navLinksBot.desktop a[href='#top']::after {
 		color: transparent !important;
 	}
 
-	.navLinks.navLinksBot.desktop a[href='http://www.w3.org/2000/svg']:hover {
+	.navLinks.navLinksBot.desktop a[href='#top']:hover {
 		opacity: .5 !important;
 	}
 
