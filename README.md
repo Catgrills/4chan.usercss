@@ -25,9 +25,9 @@ Instruction
 
 <strong>Step 3 : Install other(s) script(s) </strong>
 <ol>
-<li> <a href="https://www.4chan-x.net/">4chan-X</a></li>
+<li> <a href="https://www.4chan-x.net/">4chan-X</a>, then go to the 4chan-X settings and import <i>4chan X v1.14.22.1-1659107354023</i></li>
+<li> <a href="https://github.com/KevinParnell/OneeChan">OneeChan</a>, then go to the OneeChan settings and import <i>OneeChan v5.6.1 Settings.json</i></li>
 <li> <a href="https://greasyfork.org/fr/scripts/38761-4chan-board-list-toggle">4chan Board List Toggle</a></li>
-<li> <a href="https://github.com/KevinParnell/OneeChan">OneeChan</a></li>
 </ol>
 
 <strong>Step 4 : Install font(s) </strong>
