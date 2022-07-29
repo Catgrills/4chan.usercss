@@ -5,7 +5,7 @@
 <img src="preview_catalog_classic.png" width="100%">
 <img src="preview_thread_classic.png" width="100%">
 <img src="preview_catalog_dark_cyan.png" width="100%">
-<img src="preview_thread_dark_cyan.png" width="100>
+<img src="preview_thread_dark_cyan.png" width="100%">
 
 About
 -------------------------------
@@ -25,8 +25,9 @@ Instruction
 
 <strong>Step 3 : Install other(s) script(s) </strong>
 <ol>
-<li> <a href="https://greasyfork.org/fr/scripts/37879-exhentai-search-box-and-favorite-box-hidden">Exhentai Search box and Favorite box hidden</a></li>
-<li> <a href="https://dnsev-h.github.io/eze/">eze</a></li>
+<li> <a href="https://www.4chan-x.net/">4chan-X</a></li>
+<li> <a href="https://greasyfork.org/fr/scripts/38761-4chan-board-list-toggle">4chan Board List Toggle</a></li>
+<li> <a href="https://github.com/KevinParnell/OneeChan">OneeChan</a></li>
 </ol>
 
 <strong>Step 4 : Install font(s) </strong>
