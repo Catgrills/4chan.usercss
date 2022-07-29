@@ -8,7 +8,7 @@
 About
 -------------------------------
 <p>A css script for <i><a href="https://4chan.org/">4chan.org</a></i>.</p>
-<p>There a two themes available : <i>Classic</i> and <i>Dark Cyan</i>.</p>
+<p>There are two themes available : <i>Classic</i> and <i>Dark Cyan</i>.</p>
 
 Instruction
 -------------------------------
