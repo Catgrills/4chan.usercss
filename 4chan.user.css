@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           4chan.usercss
 @namespace      https://github.com/Catgrills/4chan.usercss
-@version        1.6
+@version        1.7
 @description    A css script for 4chan.org
 @author         Catgrills/Katgrills
 @preprocessor uso
@@ -1138,7 +1138,8 @@
 		color: var(--primary-color);
 		font-size: 15px !important;
 		height: 100% !important;
-		margin-right: -1px !important;
+		margin-top: 1px !important;
+		margin-right: 3px !important;
 	}
 
 	#shortcut-menu #menu {
