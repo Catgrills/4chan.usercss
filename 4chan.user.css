@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           4chan.usercss
 @namespace      https://github.com/Catgrills/4chan.usercss
-@version        1.5
+@version        1.6
 @description    A css script for 4chan.org
 @author         Catgrills/Katgrills
 @preprocessor uso
@@ -400,6 +400,12 @@
 		text-align: right !important;
 		padding-right: 5px !important;
 		padding-bottom: 4px !important; 
+	}
+    
+	:root.bottom-backlinks .op .container {
+		padding: 0px !important;
+		margin-right: 0px !important;
+		margin-bottom: -7px !important;
 	}
 
 	.quotelink, 
